@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/srexrg" target="blank"><img src="https://img.shields.io/twitter/follow/srexrg?logo=twitter&style=for-the-badge" alt="srexrg" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS,GenAI**
-
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **https://twitter.com/Srexrg**
 
